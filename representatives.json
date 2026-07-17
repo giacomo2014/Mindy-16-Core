@@ -1,0 +1,3498 @@
+[
+    {
+        "name": "Robert B. Aderholt",
+        "state": "AL-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6AL04098"
+    },
+    {
+        "name": "Gus M. Bilirakis",
+        "state": "FL-12",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL09070"
+    },
+    {
+        "name": "Sanford D. Bishop, Jr.",
+        "state": "GA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2GA02031"
+    },
+    {
+        "name": "Vern Buchanan",
+        "state": "FL-16",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL13148"
+    },
+    {
+        "name": "Ken Calvert",
+        "state": "CA-41",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA37023"
+    },
+    {
+        "name": "Andr\u00e9 Carson",
+        "state": "IN-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IN07184"
+    },
+    {
+        "name": "John R. Carter",
+        "state": "TX-31",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX31044"
+    },
+    {
+        "name": "Kathy Castor",
+        "state": "FL-14",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL11126"
+    },
+    {
+        "name": "Judy Chu",
+        "state": "CA-28",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA32101"
+    },
+    {
+        "name": "Yvette D. Clarke",
+        "state": "NY-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY11138"
+    },
+    {
+        "name": "Emanuel Cleaver",
+        "state": "MO-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MO05234"
+    },
+    {
+        "name": "James E. Clyburn",
+        "state": "SC-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2SC02042"
+    },
+    {
+        "name": "Steve Cohen",
+        "state": "TN-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TN09068"
+    },
+    {
+        "name": "Tom Cole",
+        "state": "OK-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OK04055"
+    },
+    {
+        "name": "Jim Costa",
+        "state": "CA-21",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA20082"
+    },
+    {
+        "name": "Joe Courtney",
+        "state": "CT-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CT02112"
+    },
+    {
+        "name": "Eric A. \"Rick\" Crawford",
+        "state": "AR-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0AR01083"
+    },
+    {
+        "name": "Henry Cuellar",
+        "state": "TX-28",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX23082"
+    },
+    {
+        "name": "Danny K. Davis",
+        "state": "IL-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4IL07037"
+    },
+    {
+        "name": "Diana DeGette",
+        "state": "CO-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CO01141"
+    },
+    {
+        "name": "Rosa L. DeLauro",
+        "state": "CT-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CT03072"
+    },
+    {
+        "name": "Scott DesJarlais",
+        "state": "TN-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TN04195"
+    },
+    {
+        "name": "Mario Diaz-Balart",
+        "state": "FL-26",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL25018"
+    },
+    {
+        "name": "Lloyd Doggett",
+        "state": "TX-37",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX10028"
+    },
+    {
+        "name": "Charles J. \"Chuck\" Fleischmann",
+        "state": "TN-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TN03254"
+    },
+    {
+        "name": "Virginia Foxx",
+        "state": "NC-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NC05146"
+    },
+    {
+        "name": "John Garamendi",
+        "state": "CA-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA10149"
+    },
+    {
+        "name": "Paul A. Gosar",
+        "state": "AZ-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0AZ01259"
+    },
+    {
+        "name": "Sam Graves",
+        "state": "MO-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MO06073"
+    },
+    {
+        "name": "Al Green",
+        "state": "TX-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX09095"
+    },
+    {
+        "name": "H. Morgan Griffith",
+        "state": "VA-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0VA09055"
+    },
+    {
+        "name": "Brett Guthrie",
+        "state": "KY-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8KY02031"
+    },
+    {
+        "name": "Andy Harris",
+        "state": "MD-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MD01094"
+    },
+    {
+        "name": "James A. Himes",
+        "state": "CT-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CT04172"
+    },
+    {
+        "name": "Steny H. Hoyer",
+        "state": "MD-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MD05155"
+    },
+    {
+        "name": "Bill Huizenga",
+        "state": "MI-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MI02094"
+    },
+    {
+        "name": "Henry C. \"Hank\" Johnson, Jr.",
+        "state": "GA-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6GA04129"
+    },
+    {
+        "name": "Jim Jordan",
+        "state": "OH-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6OH04082"
+    },
+    {
+        "name": "Marcy Kaptur",
+        "state": "OH-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH09031"
+    },
+    {
+        "name": "William R. Keating",
+        "state": "MA-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MA10082"
+    },
+    {
+        "name": "Mike Kelly",
+        "state": "PA-16",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0PA03271"
+    },
+    {
+        "name": "Rick Larsen",
+        "state": "WA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WA02080"
+    },
+    {
+        "name": "John B. Larson",
+        "state": "CT-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CT01046"
+    },
+    {
+        "name": "Robert E. Latta",
+        "state": "OH-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8OH05036"
+    },
+    {
+        "name": "Zoe Lofgren",
+        "state": "CA-18",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA16049"
+    },
+    {
+        "name": "Frank D. Lucas",
+        "state": "OK-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4OK06056"
+    },
+    {
+        "name": "Stephen F. Lynch",
+        "state": "MA-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MA09072"
+    },
+    {
+        "name": "Doris O. Matsui",
+        "state": "CA-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA05195"
+    },
+    {
+        "name": "Michael T. McCaul",
+        "state": "TX-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX10093"
+    },
+    {
+        "name": "Tom McClintock",
+        "state": "CA-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA04152"
+    },
+    {
+        "name": "Betty McCollum",
+        "state": "MN-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MN04049"
+    },
+    {
+        "name": "James P. McGovern",
+        "state": "MA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MA03022"
+    },
+    {
+        "name": "Gregory W. Meeks",
+        "state": "NY-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY06048"
+    },
+    {
+        "name": "Gwen Moore",
+        "state": "WI-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WI04183"
+    },
+    {
+        "name": "Jerrold Nadler",
+        "state": "NY-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY17071"
+    },
+    {
+        "name": "Richard E. Neal",
+        "state": "MA-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MA02041"
+    },
+    {
+        "name": "Eleanor Holmes Norton",
+        "state": "DC-00",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0DC00058"
+    },
+    {
+        "name": "Frank Pallone, Jr.",
+        "state": "NJ-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NJ03073"
+    },
+    {
+        "name": "Nancy Pelosi",
+        "state": "CA-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA05035"
+    },
+    {
+        "name": "Chellie Pingree",
+        "state": "ME-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8ME01120"
+    },
+    {
+        "name": "Mike Quigley",
+        "state": "IL-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IL05096"
+    },
+    {
+        "name": "Harold Rogers",
+        "state": "KY-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0KY05015"
+    },
+    {
+        "name": "Mike Rogers",
+        "state": "AL-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2AL03032"
+    },
+    {
+        "name": "Steve Scalise",
+        "state": "LA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0LA01087"
+    },
+    {
+        "name": "Janice D. Schakowsky",
+        "state": "IL-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IL09067"
+    },
+    {
+        "name": "David Schweikert",
+        "state": "AZ-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AZ06045"
+    },
+    {
+        "name": "Austin Scott",
+        "state": "GA-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0GA08099"
+    },
+    {
+        "name": "Robert C. \"Bobby\" Scott",
+        "state": "VA-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6VA01117"
+    },
+    {
+        "name": "Terri A. Sewell",
+        "state": "AL-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0AL07086"
+    },
+    {
+        "name": "Brad Sherman",
+        "state": "CA-32",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA24113"
+    },
+    {
+        "name": "Michael K. Simpson",
+        "state": "ID-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8ID02064"
+    },
+    {
+        "name": "Adam Smith",
+        "state": "WA-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6WA09025"
+    },
+    {
+        "name": "Adrian Smith",
+        "state": "NE-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NE03115"
+    },
+    {
+        "name": "Christopher H. Smith",
+        "state": "NJ-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NJ04014"
+    },
+    {
+        "name": "Linda T. S\u00e1nchez",
+        "state": "CA-38",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA39078"
+    },
+    {
+        "name": "Bennie G. Thompson",
+        "state": "MS-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MS02068"
+    },
+    {
+        "name": "Mike Thompson",
+        "state": "CA-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA01109"
+    },
+    {
+        "name": "Glenn Thompson",
+        "state": "PA-15",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA05071"
+    },
+    {
+        "name": "Paul Tonko",
+        "state": "NY-20",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY21203"
+    },
+    {
+        "name": "Michael R. Turner",
+        "state": "OH-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH03067"
+    },
+    {
+        "name": "Nydia M. Vel\u00e1zquez",
+        "state": "NY-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY00010"
+    },
+    {
+        "name": "Tim Walberg",
+        "state": "MI-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MI07103"
+    },
+    {
+        "name": "Debbie Wasserman Schultz",
+        "state": "FL-25",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4FL20023"
+    },
+    {
+        "name": "Maxine Waters",
+        "state": "CA-43",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA23011"
+    },
+    {
+        "name": "Daniel Webster",
+        "state": "FL-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL08208"
+    },
+    {
+        "name": "Joe Wilson",
+        "state": "SC-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2SC02059"
+    },
+    {
+        "name": "Frederica S. Wilson",
+        "state": "FL-24",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL17068"
+    },
+    {
+        "name": "Robert J. Wittman",
+        "state": "VA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8VA01147"
+    },
+    {
+        "name": "Steve Womack",
+        "state": "AR-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0AR03055"
+    },
+    {
+        "name": "Mark E. Amodei",
+        "state": "NV-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NV02395"
+    },
+    {
+        "name": "Suzanne Bonamici",
+        "state": "OR-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OR01133"
+    },
+    {
+        "name": "Suzan K. DelBene",
+        "state": "WA-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WA08046"
+    },
+    {
+        "name": "Thomas Massie",
+        "state": "KY-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2KY04121"
+    },
+    {
+        "name": "Bill Foster",
+        "state": "IL-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IL14067"
+    },
+    {
+        "name": "Dina Titus",
+        "state": "NV-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NV03036"
+    },
+    {
+        "name": "Jared Huffman",
+        "state": "CA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA06259"
+    },
+    {
+        "name": "Ami Bera",
+        "state": "CA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA03078"
+    },
+    {
+        "name": "Julia Brownley",
+        "state": "CA-26",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA00120"
+    },
+    {
+        "name": "Raul Ruiz",
+        "state": "CA-25",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA36439"
+    },
+    {
+        "name": "Mark Takano",
+        "state": "CA-39",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA43245"
+    },
+    {
+        "name": "Juan Vargas",
+        "state": "CA-52",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA50026"
+    },
+    {
+        "name": "Scott H. Peters",
+        "state": "CA-50",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA52089"
+    },
+    {
+        "name": "Lois Frankel",
+        "state": "FL-22",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL14053"
+    },
+    {
+        "name": "Andy Barr",
+        "state": "KY-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0KY06104"
+    },
+    {
+        "name": "Ann Wagner",
+        "state": "MO-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MO02102"
+    },
+    {
+        "name": "Richard Hudson",
+        "state": "NC-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC08185"
+    },
+    {
+        "name": "Grace Meng",
+        "state": "NY-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY06116"
+    },
+    {
+        "name": "Hakeem S. Jeffries",
+        "state": "NY-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY10092"
+    },
+    {
+        "name": "Joyce Beatty",
+        "state": "OH-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH03125"
+    },
+    {
+        "name": "David P. Joyce",
+        "state": "OH-14",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH14064"
+    },
+    {
+        "name": "Scott Perry",
+        "state": "PA-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2PA04135"
+    },
+    {
+        "name": "Randy K. Weber, Sr.",
+        "state": "TX-14",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX14149"
+    },
+    {
+        "name": "Joaquin Castro",
+        "state": "TX-20",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX35011"
+    },
+    {
+        "name": "Roger Williams",
+        "state": "TX-25",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX33040"
+    },
+    {
+        "name": "Marc A. Veasey",
+        "state": "TX-33",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX33073"
+    },
+    {
+        "name": "Mark Pocan",
+        "state": "WI-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2WI02124"
+    },
+    {
+        "name": "Robin L. Kelly",
+        "state": "IL-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL02172"
+    },
+    {
+        "name": "Jason Smith",
+        "state": "MO-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MO08162"
+    },
+    {
+        "name": "Katherine M. Clark",
+        "state": "MA-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MA05084"
+    },
+    {
+        "name": "Donald Norcross",
+        "state": "NJ-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NJ01084"
+    },
+    {
+        "name": "Alma S. Adams",
+        "state": "NC-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NC12100"
+    },
+    {
+        "name": "Gary J. Palmer",
+        "state": "AL-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AL06098"
+    },
+    {
+        "name": "J. French Hill",
+        "state": "AR-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AR02141"
+    },
+    {
+        "name": "Bruce Westerman",
+        "state": "AR-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AR04048"
+    },
+    {
+        "name": "Mark DeSaulnier",
+        "state": "CA-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA10073"
+    },
+    {
+        "name": "Pete Aguilar",
+        "state": "CA-33",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA31125"
+    },
+    {
+        "name": "Ted Lieu",
+        "state": "CA-36",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA33119"
+    },
+    {
+        "name": "Norma J. Torres",
+        "state": "CA-35",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA35031"
+    },
+    {
+        "name": "Earl L. \"Buddy\" Carter",
+        "state": "GA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4GA01039"
+    },
+    {
+        "name": "Barry Loudermilk",
+        "state": "GA-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4GA11061"
+    },
+    {
+        "name": "Rick W. Allen",
+        "state": "GA-12",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2GA12121"
+    },
+    {
+        "name": "Mike Bost",
+        "state": "IL-12",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4IL12060"
+    },
+    {
+        "name": "Seth Moulton",
+        "state": "MA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MA06090"
+    },
+    {
+        "name": "John R. Moolenaar",
+        "state": "MI-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MI04126"
+    },
+    {
+        "name": "Debbie Dingell",
+        "state": "MI-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MI12079"
+    },
+    {
+        "name": "Tom Emmer",
+        "state": "MN-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MN06087"
+    },
+    {
+        "name": "David Rouzer",
+        "state": "NC-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC07096"
+    },
+    {
+        "name": "Bonnie Watson Coleman",
+        "state": "NJ-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NJ12149"
+    },
+    {
+        "name": "Elise M. Stefanik",
+        "state": "NY-21",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY21079"
+    },
+    {
+        "name": "Brendan F. Boyle",
+        "state": "PA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4PA13199"
+    },
+    {
+        "name": "Brian Babin",
+        "state": "TX-36",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TX02079"
+    },
+    {
+        "name": "Donald S. Beyer, Jr.",
+        "state": "VA-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4VA08224"
+    },
+    {
+        "name": "Stacey E. Plaskett",
+        "state": "VI-00",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2VI00082"
+    },
+    {
+        "name": "Dan Newhouse",
+        "state": "WA-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WA04104"
+    },
+    {
+        "name": "Glenn Grothman",
+        "state": "WI-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WI06048"
+    },
+    {
+        "name": "Aumua Amata Coleman Radewagen",
+        "state": "AS-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AS00036"
+    },
+    {
+        "name": "Trent Kelly",
+        "state": "MS-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6MS01131"
+    },
+    {
+        "name": "Darin LaHood",
+        "state": "IL-16",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6IL18088"
+    },
+    {
+        "name": "Warren Davidson",
+        "state": "OH-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6OH08315"
+    },
+    {
+        "name": "James Comer",
+        "state": "KY-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6KY01110"
+    },
+    {
+        "name": "Dwight Evans",
+        "state": "PA-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6PA02171"
+    },
+    {
+        "name": "Bradley Scott Schneider",
+        "state": "IL-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL10068"
+    },
+    {
+        "name": "Andy Biggs",
+        "state": "AZ-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6AZ05083"
+    },
+    {
+        "name": "Ro Khanna",
+        "state": "CA-17",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA12055"
+    },
+    {
+        "name": "Jimmy Panetta",
+        "state": "CA-19",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA20152"
+    },
+    {
+        "name": "Salud O. Carbajal",
+        "state": "CA-24",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA24303"
+    },
+    {
+        "name": "Nanette Diaz Barrag\u00e1n",
+        "state": "CA-44",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA44103"
+    },
+    {
+        "name": "J. Luis Correa",
+        "state": "CA-46",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA46116"
+    },
+    {
+        "name": "Neal P. Dunn",
+        "state": "FL-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL02208"
+    },
+    {
+        "name": "John H. Rutherford",
+        "state": "FL-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL04105"
+    },
+    {
+        "name": "Darren Soto",
+        "state": "FL-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL09179"
+    },
+    {
+        "name": "Brian J. Mast",
+        "state": "FL-21",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL18097"
+    },
+    {
+        "name": "Raja Krishnamoorthi",
+        "state": "IL-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6IL08147"
+    },
+    {
+        "name": "Clay Higgins",
+        "state": "LA-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6LA03148"
+    },
+    {
+        "name": "Mike Johnson",
+        "state": "LA-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6LA04138"
+    },
+    {
+        "name": "Jamie Raskin",
+        "state": "MD-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6MD08457"
+    },
+    {
+        "name": "Jack Bergman",
+        "state": "MI-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6MI01226"
+    },
+    {
+        "name": "Don Bacon",
+        "state": "NE-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NE02125"
+    },
+    {
+        "name": "Josh Gottheimer",
+        "state": "NJ-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NJ05171"
+    },
+    {
+        "name": "Adriano Espaillat",
+        "state": "NY-13",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY13096"
+    },
+    {
+        "name": "Brian K. Fitzpatrick",
+        "state": "PA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6PA08277"
+    },
+    {
+        "name": "Lloyd Smucker",
+        "state": "PA-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6PA16320"
+    },
+    {
+        "name": "David Kustoff",
+        "state": "TN-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TN07103"
+    },
+    {
+        "name": "Vicente Gonzalez",
+        "state": "TX-34",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TX15162"
+    },
+    {
+        "name": "Jodey C. Arrington",
+        "state": "TX-19",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TX19099"
+    },
+    {
+        "name": "Pramila Jayapal",
+        "state": "WA-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6WA07458"
+    },
+    {
+        "name": "Ron Estes",
+        "state": "KS-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8KS04112"
+    },
+    {
+        "name": "Ralph Norman",
+        "state": "SC-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8SC05158"
+    },
+    {
+        "name": "Jimmy Gomez",
+        "state": "CA-34",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA34266"
+    },
+    {
+        "name": "Michael Cloud",
+        "state": "TX-27",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX27049"
+    },
+    {
+        "name": "Troy Balderson",
+        "state": "OH-12",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8OH12180"
+    },
+    {
+        "name": "Kevin Hern",
+        "state": "OK-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8OK01157"
+    },
+    {
+        "name": "Joseph D. Morelle",
+        "state": "NY-25",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY25105"
+    },
+    {
+        "name": "Mary Gay Scanlon",
+        "state": "PA-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA07200"
+    },
+    {
+        "name": "Ed Case",
+        "state": "HI-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2HI02128"
+    },
+    {
+        "name": "Steven Horsford",
+        "state": "NV-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NV04011"
+    },
+    {
+        "name": "Greg Stanton",
+        "state": "AZ-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8AZ09040"
+    },
+    {
+        "name": "Josh Harder",
+        "state": "CA-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA10126"
+    },
+    {
+        "name": "Mike Levin",
+        "state": "CA-49",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA49058"
+    },
+    {
+        "name": "Joe Neguse",
+        "state": "CO-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CO02160"
+    },
+    {
+        "name": "Jason Crow",
+        "state": "CO-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CO06229"
+    },
+    {
+        "name": "Jahana Hayes",
+        "state": "CT-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CT05245"
+    },
+    {
+        "name": "W. Gregory Steube",
+        "state": "FL-17",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8FL17053"
+    },
+    {
+        "name": "Lucy McBath",
+        "state": "GA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8GA06393"
+    },
+    {
+        "name": "Russ Fulcher",
+        "state": "ID-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8ID01124"
+    },
+    {
+        "name": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
+        "state": "IL-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IL04134"
+    },
+    {
+        "name": "Sean Casten",
+        "state": "IL-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IL06139"
+    },
+    {
+        "name": "Lauren Underwood",
+        "state": "IL-14",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IL14174"
+    },
+    {
+        "name": "James R. Baird",
+        "state": "IN-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IN04199"
+    },
+    {
+        "name": "Sharice Davids",
+        "state": "KS-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8KS03155"
+    },
+    {
+        "name": "Lori Trahan",
+        "state": "MA-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MA03106"
+    },
+    {
+        "name": "Ayanna Pressley",
+        "state": "MA-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MA07032"
+    },
+    {
+        "name": "Haley M. Stevens",
+        "state": "MI-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MI11254"
+    },
+    {
+        "name": "Rashida Tlaib",
+        "state": "MI-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MI13250"
+    },
+    {
+        "name": "Angie Craig",
+        "state": "MN-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6MN02131"
+    },
+    {
+        "name": "Ilhan Omar",
+        "state": "MN-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MN05239"
+    },
+    {
+        "name": "Pete Stauber",
+        "state": "MN-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MN08043"
+    },
+    {
+        "name": "Michael Guest",
+        "state": "MS-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MS03125"
+    },
+    {
+        "name": "Chris Pappas",
+        "state": "NH-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NH01210"
+    },
+    {
+        "name": "Jefferson Van Drew",
+        "state": "NJ-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NJ02166"
+    },
+    {
+        "name": "Susie Lee",
+        "state": "NV-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NV04020"
+    },
+    {
+        "name": "Alexandria Ocasio-Cortez",
+        "state": "NY-14",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY15148"
+    },
+    {
+        "name": "Madeleine Dean",
+        "state": "PA-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA04116"
+    },
+    {
+        "name": "Chrissy Houlahan",
+        "state": "PA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA06087"
+    },
+    {
+        "name": "Daniel Meuser",
+        "state": "PA-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA10147"
+    },
+    {
+        "name": "John Joyce",
+        "state": "PA-13",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA13125"
+    },
+    {
+        "name": "Guy Reschenthaler",
+        "state": "PA-14",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA18199"
+    },
+    {
+        "name": "William R. Timmons IV",
+        "state": "SC-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8SC04250"
+    },
+    {
+        "name": "Dusty Johnson",
+        "state": "SD-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8SD01055"
+    },
+    {
+        "name": "Tim Burchett",
+        "state": "TN-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TN02119"
+    },
+    {
+        "name": "John W. Rose",
+        "state": "TN-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TN06094"
+    },
+    {
+        "name": "Dan Crenshaw",
+        "state": "TX-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX02166"
+    },
+    {
+        "name": "Lance Gooden",
+        "state": "TX-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX05144"
+    },
+    {
+        "name": "Lizzie Fletcher",
+        "state": "TX-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX07140"
+    },
+    {
+        "name": "Veronica Escobar",
+        "state": "TX-16",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX16109"
+    },
+    {
+        "name": "Chip Roy",
+        "state": "TX-21",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX21307"
+    },
+    {
+        "name": "Sylvia R. Garcia",
+        "state": "TX-29",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX29052"
+    },
+    {
+        "name": "Ben Cline",
+        "state": "VA-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8VA06104"
+    },
+    {
+        "name": "Kim Schrier",
+        "state": "WA-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8WA08189"
+    },
+    {
+        "name": "Bryan Steil",
+        "state": "WI-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8WI01156"
+    },
+    {
+        "name": "Carol D. Miller",
+        "state": "WV-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8WV03097"
+    },
+    {
+        "name": "Jared F. Golden",
+        "state": "ME-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8ME02185"
+    },
+    {
+        "name": "Gregory F. Murphy",
+        "state": "NC-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NC03172"
+    },
+    {
+        "name": "Kweisi Mfume",
+        "state": "MD-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "S6MD03185"
+    },
+    {
+        "name": "Thomas P. Tiffany",
+        "state": "WI-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WI07101"
+    },
+    {
+        "name": "Darrell Issa",
+        "state": "CA-48",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA48024"
+    },
+    {
+        "name": "Pete Sessions",
+        "state": "TX-17",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX03126"
+    },
+    {
+        "name": "David G. Valadao",
+        "state": "CA-22",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA20094"
+    },
+    {
+        "name": "Barry Moore",
+        "state": "AL-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8AL02171"
+    },
+    {
+        "name": "Jay Obernolte",
+        "state": "CA-23",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CA08135"
+    },
+    {
+        "name": "Young Kim",
+        "state": "CA-40",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA39240"
+    },
+    {
+        "name": "Sara Jacobs",
+        "state": "CA-51",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA49074"
+    },
+    {
+        "name": "Lauren Boebert",
+        "state": "CO-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0CO03165"
+    },
+    {
+        "name": "Kat Cammack",
+        "state": "FL-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL03175"
+    },
+    {
+        "name": "Scott Franklin",
+        "state": "FL-18",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL15104"
+    },
+    {
+        "name": "Byron Donalds",
+        "state": "FL-19",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL14186"
+    },
+    {
+        "name": "Carlos A. Gimenez",
+        "state": "FL-28",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL26036"
+    },
+    {
+        "name": "Maria Elvira Salazar",
+        "state": "FL-27",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8FL27185"
+    },
+    {
+        "name": "Nikema Williams",
+        "state": "GA-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0GA05301"
+    },
+    {
+        "name": "Andrew S. Clyde",
+        "state": "GA-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0GA09246"
+    },
+    {
+        "name": "Ashley Hinson",
+        "state": "IA-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IA01174"
+    },
+    {
+        "name": "Mariannette Miller-Meeks",
+        "state": "IA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8IA02043"
+    },
+    {
+        "name": "Randy Feenstra",
+        "state": "IA-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IA04145"
+    },
+    {
+        "name": "Mary E. Miller",
+        "state": "IL-15",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IL15129"
+    },
+    {
+        "name": "Frank J. Mrvan",
+        "state": "IN-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IN01150"
+    },
+    {
+        "name": "Victoria Spartz",
+        "state": "IN-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IN05326"
+    },
+    {
+        "name": "Tracey Mann",
+        "state": "KS-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0KS01123"
+    },
+    {
+        "name": "Jake Auchincloss",
+        "state": "MA-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MA04192"
+    },
+    {
+        "name": "Lisa C. McClain",
+        "state": "MI-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MI10287"
+    },
+    {
+        "name": "Michelle Fischbach",
+        "state": "MN-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MN07091"
+    },
+    {
+        "name": "Deborah K. Ross",
+        "state": "NC-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NC02125"
+    },
+    {
+        "name": "Teresa Leger Fernandez",
+        "state": "NM-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NM03102"
+    },
+    {
+        "name": "Andrew R. Garbarino",
+        "state": "NY-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NY02234"
+    },
+    {
+        "name": "Nicole Malliotakis",
+        "state": "NY-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NY11078"
+    },
+    {
+        "name": "Ritchie Torres",
+        "state": "NY-15",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NY15160"
+    },
+    {
+        "name": "Stephanie I. Bice",
+        "state": "OK-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0OK05205"
+    },
+    {
+        "name": "Cliff Bentz",
+        "state": "OR-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0OR02127"
+    },
+    {
+        "name": "Nancy Mace",
+        "state": "SC-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0SC01394"
+    },
+    {
+        "name": "Diana Harshbarger",
+        "state": "TN-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TN01118"
+    },
+    {
+        "name": "Pat Fallon",
+        "state": "TX-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX04219"
+    },
+    {
+        "name": "August Pfluger",
+        "state": "TX-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX11230"
+    },
+    {
+        "name": "Ronny Jackson",
+        "state": "TX-13",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX13228"
+    },
+    {
+        "name": "Troy E. Nehls",
+        "state": "TX-22",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX22302"
+    },
+    {
+        "name": "Beth Van Duyne",
+        "state": "TX-24",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX24209"
+    },
+    {
+        "name": "Blake D. Moore",
+        "state": "UT-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0UT01205"
+    },
+    {
+        "name": "Burgess Owens",
+        "state": "UT-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0UT04076"
+    },
+    {
+        "name": "Marilyn Strickland",
+        "state": "WA-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WA10034"
+    },
+    {
+        "name": "Scott Fitzgerald",
+        "state": "WI-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WI05113"
+    },
+    {
+        "name": "Claudia Tenney",
+        "state": "NY-24",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY22051"
+    },
+    {
+        "name": "Julia Letlow",
+        "state": "LA-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2LA05126"
+    },
+    {
+        "name": "Troy A. Carter",
+        "state": "LA-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2LA02149"
+    },
+    {
+        "name": "Melanie A. Stansbury",
+        "state": "NM-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NM01144"
+    },
+    {
+        "name": "Jake Ellzey",
+        "state": "TX-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8TX06266"
+    },
+    {
+        "name": "Shontel M. Brown",
+        "state": "OH-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH11169"
+    },
+    {
+        "name": "Mike Carey",
+        "state": "OH-15",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH15228"
+    },
+    {
+        "name": "Mike Flood",
+        "state": "NE-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NE01118"
+    },
+    {
+        "name": "Brad Finstad",
+        "state": "MN-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MN01223"
+    },
+    {
+        "name": "Patrick Ryan",
+        "state": "NY-18",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY19223"
+    },
+    {
+        "name": "Rudy Yakym III",
+        "state": "IN-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IN02295"
+    },
+    {
+        "name": "Ryan K. Zinke",
+        "state": "MT-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MT01041"
+    },
+    {
+        "name": "Dale W. Strong",
+        "state": "AL-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2AL05102"
+    },
+    {
+        "name": "Elijah Crane",
+        "state": "AZ-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2AZ01354"
+    },
+    {
+        "name": "Juan Ciscomani",
+        "state": "AZ-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2AZ02360"
+    },
+    {
+        "name": "Kevin Kiley",
+        "state": "CA-03",
+        "party": "ind",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA03157"
+    },
+    {
+        "name": "Kevin Mullin",
+        "state": "CA-15",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA14162"
+    },
+    {
+        "name": "Sydney Kamlager-Dove",
+        "state": "CA-37",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA37304"
+    },
+    {
+        "name": "Robert Garcia",
+        "state": "CA-42",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA47188"
+    },
+    {
+        "name": "Brittany Pettersen",
+        "state": "CO-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CO07045"
+    },
+    {
+        "name": "Aaron Bean",
+        "state": "FL-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL04211"
+    },
+    {
+        "name": "Cory Mills",
+        "state": "FL-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL07156"
+    },
+    {
+        "name": "Maxwell Frost",
+        "state": "FL-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL10259"
+    },
+    {
+        "name": "Anna Paulina Luna",
+        "state": "FL-13",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0FL13158"
+    },
+    {
+        "name": "Laurel M. Lee",
+        "state": "FL-15",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL15241"
+    },
+    {
+        "name": "Jared Moskowitz",
+        "state": "FL-23",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2FL22171"
+    },
+    {
+        "name": "Richard McCormick",
+        "state": "GA-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0GA07273"
+    },
+    {
+        "name": "Mike Collins",
+        "state": "GA-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4GA10071"
+    },
+    {
+        "name": "James C. Moylan",
+        "state": "GU-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2GU01031"
+    },
+    {
+        "name": "Jill N. Tokuda",
+        "state": "HI-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2HI02581"
+    },
+    {
+        "name": "Zachary Nunn",
+        "state": "IA-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IA03119"
+    },
+    {
+        "name": "Jonathan L. Jackson",
+        "state": "IL-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL01349"
+    },
+    {
+        "name": "Delia C. Ramirez",
+        "state": "IL-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL03162"
+    },
+    {
+        "name": "Nikki Budzinski",
+        "state": "IL-13",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL13153"
+    },
+    {
+        "name": "Eric Sorensen",
+        "state": "IL-17",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2IL17147"
+    },
+    {
+        "name": "Erin Houchin",
+        "state": "IN-09",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6IN09143"
+    },
+    {
+        "name": "Morgan McGarvey",
+        "state": "KY-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2KY03206"
+    },
+    {
+        "name": "Glenn Ivey",
+        "state": "MD-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MD04315"
+    },
+    {
+        "name": "Hillary J. Scholten",
+        "state": "MI-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0MI03316"
+    },
+    {
+        "name": "John James",
+        "state": "MI-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MI10150"
+    },
+    {
+        "name": "Shri Thanedar",
+        "state": "MI-13",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MI13204"
+    },
+    {
+        "name": "Mark Alford",
+        "state": "MO-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MO04207"
+    },
+    {
+        "name": "Eric Burlison",
+        "state": "MO-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MO07143"
+    },
+    {
+        "name": "Mike Ezell",
+        "state": "MS-04",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MS04258"
+    },
+    {
+        "name": "Donald G. Davis",
+        "state": "NC-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC02287"
+    },
+    {
+        "name": "Valerie P. Foushee",
+        "state": "NC-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC06114"
+    },
+    {
+        "name": "Chuck Edwards",
+        "state": "NC-11",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC14050"
+    },
+    {
+        "name": "Thomas H. Kean, Jr.",
+        "state": "NJ-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0NJ07261"
+    },
+    {
+        "name": "Robert Menendez",
+        "state": "NJ-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NJ08232"
+    },
+    {
+        "name": "Gabe Vasquez",
+        "state": "NM-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NM02191"
+    },
+    {
+        "name": "Nick LaLota",
+        "state": "NY-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY01190"
+    },
+    {
+        "name": "Daniel S. Goldman",
+        "state": "NY-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY10308"
+    },
+    {
+        "name": "Michael Lawler",
+        "state": "NY-17",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY17162"
+    },
+    {
+        "name": "Nicholas A. Langworthy",
+        "state": "NY-23",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NY23228"
+    },
+    {
+        "name": "Greg Landsman",
+        "state": "OH-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH01194"
+    },
+    {
+        "name": "Max L. Miller",
+        "state": "OH-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH16051"
+    },
+    {
+        "name": "Emilia Strong Sykes",
+        "state": "OH-13",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OH13264"
+    },
+    {
+        "name": "Josh Brecheen",
+        "state": "OK-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OK02315"
+    },
+    {
+        "name": "Val T. Hoyle",
+        "state": "OR-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OR04095"
+    },
+    {
+        "name": "Andrea Salinas",
+        "state": "OR-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2OR06066"
+    },
+    {
+        "name": "Summer L. Lee",
+        "state": "PA-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2PA18200"
+    },
+    {
+        "name": "Christopher R. Deluzio",
+        "state": "PA-17",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2PA17103"
+    },
+    {
+        "name": "Seth Magaziner",
+        "state": "RI-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2RI02184"
+    },
+    {
+        "name": "Russell Fry",
+        "state": "SC-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2SC07280"
+    },
+    {
+        "name": "Andrew Ogles",
+        "state": "TN-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TN05446"
+    },
+    {
+        "name": "Nathaniel Moran",
+        "state": "TX-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX01112"
+    },
+    {
+        "name": "Keith Self",
+        "state": "TX-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX03290"
+    },
+    {
+        "name": "Morgan Luttrell",
+        "state": "TX-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX08182"
+    },
+    {
+        "name": "Monica De La Cruz",
+        "state": "TX-15",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX15124"
+    },
+    {
+        "name": "Jasmine Crockett",
+        "state": "TX-30",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX30178"
+    },
+    {
+        "name": "Greg Casar",
+        "state": "TX-35",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2TX35144"
+    },
+    {
+        "name": "Wesley Hunt",
+        "state": "TX-38",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0TX07170"
+    },
+    {
+        "name": "Jennifer A. Kiggans",
+        "state": "VA-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2VA02064"
+    },
+    {
+        "name": "Becca Balint",
+        "state": "VT-00",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2VT01076"
+    },
+    {
+        "name": "Marie Gluesenkamp Perez",
+        "state": "WA-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2WA03217"
+    },
+    {
+        "name": "Derrick Van Orden",
+        "state": "WI-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0WI03175"
+    },
+    {
+        "name": "Harriet M. Hageman",
+        "state": "WY-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2WY00166"
+    },
+    {
+        "name": "Jennifer L. McClellan",
+        "state": "VA-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4VA04066"
+    },
+    {
+        "name": "Gabe Amo",
+        "state": "RI-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4RI01265"
+    },
+    {
+        "name": "Celeste Maloy",
+        "state": "UT-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4UT02296"
+    },
+    {
+        "name": "Thomas R. Suozzi",
+        "state": "NY-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NY03247"
+    },
+    {
+        "name": "Timothy M. Kennedy",
+        "state": "NY-26",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY26078"
+    },
+    {
+        "name": "Vince Fong",
+        "state": "CA-20",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA20181"
+    },
+    {
+        "name": "Michael A. Rulli",
+        "state": "OH-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4OH06165"
+    },
+    {
+        "name": "LaMonica McIver",
+        "state": "NJ-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NJ10176"
+    },
+    {
+        "name": "Tony Wied",
+        "state": "WI-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WI08119"
+    },
+    {
+        "name": "Cleo Fields",
+        "state": "LA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4LA06211"
+    },
+    {
+        "name": "Marlin A. Stutzman",
+        "state": "IN-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0IN03198"
+    },
+    {
+        "name": "Gilbert Ray Cisneros, Jr.",
+        "state": "CA-31",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8CA39174"
+    },
+    {
+        "name": "Nicholas J. Begich III",
+        "state": "AK-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2AK01083"
+    },
+    {
+        "name": "Shomari Figures",
+        "state": "AL-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AL02170"
+    },
+    {
+        "name": "Yassamin Ansari",
+        "state": "AZ-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AZ03109"
+    },
+    {
+        "name": "Abraham J. Hamadeh",
+        "state": "AZ-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4AZ08108"
+    },
+    {
+        "name": "Lateefah Simon",
+        "state": "CA-12",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA12154"
+    },
+    {
+        "name": "Adam Gray",
+        "state": "CA-13",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2CA13115"
+    },
+    {
+        "name": "Sam T. Liccardo",
+        "state": "CA-16",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA16197"
+    },
+    {
+        "name": "George Whitesides",
+        "state": "CA-27",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA27111"
+    },
+    {
+        "name": "Luz M. Rivas",
+        "state": "CA-29",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA29141"
+    },
+    {
+        "name": "Laura Friedman",
+        "state": "CA-30",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA30149"
+    },
+    {
+        "name": "Derek Tran",
+        "state": "CA-45",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA45170"
+    },
+    {
+        "name": "Dave Min",
+        "state": "CA-47",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CA47085"
+    },
+    {
+        "name": "Jeff Hurd",
+        "state": "CO-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CO03357"
+    },
+    {
+        "name": "Jeff Crank",
+        "state": "CO-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CO05142"
+    },
+    {
+        "name": "Gabe Evans",
+        "state": "CO-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4CO08034"
+    },
+    {
+        "name": "Sarah McBride",
+        "state": "DE-00",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4DE00045"
+    },
+    {
+        "name": "Mike Haridopolos",
+        "state": "FL-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4FL08168"
+    },
+    {
+        "name": "Brian Jack",
+        "state": "GA-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4GA03126"
+    },
+    {
+        "name": "Jefferson Shreve",
+        "state": "IN-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4IN06185"
+    },
+    {
+        "name": "Mark B. Messmer",
+        "state": "IN-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4IN08249"
+    },
+    {
+        "name": "Derek Schmidt",
+        "state": "KS-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4KS02164"
+    },
+    {
+        "name": "Johnny Olszewski, Jr.",
+        "state": "MD-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MD02232"
+    },
+    {
+        "name": "Sarah Elfreth",
+        "state": "MD-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MD03156"
+    },
+    {
+        "name": "April McClain Delaney",
+        "state": "MD-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MD06340"
+    },
+    {
+        "name": "Tom Barrett",
+        "state": "MI-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2MI07123"
+    },
+    {
+        "name": "Kristen McDonald Rivet",
+        "state": "MI-08",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MI08218"
+    },
+    {
+        "name": "Kelly Morrison",
+        "state": "MN-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MN03118"
+    },
+    {
+        "name": "Wesley Bell",
+        "state": "MO-01",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MO01134"
+    },
+    {
+        "name": "Robert F. Onder, Jr.",
+        "state": "MO-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8MO09146"
+    },
+    {
+        "name": "Kimberlyn King-Hinds",
+        "state": "MP-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MP01022"
+    },
+    {
+        "name": "Troy Downing",
+        "state": "MT-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4MT02098"
+    },
+    {
+        "name": "Addison P. McDowell",
+        "state": "NC-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NC06177"
+    },
+    {
+        "name": "Mark Harris",
+        "state": "NC-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NC09200"
+    },
+    {
+        "name": "Pat Harrigan",
+        "state": "NC-10",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2NC13243"
+    },
+    {
+        "name": "Brad Knott",
+        "state": "NC-13",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NC13116"
+    },
+    {
+        "name": "Tim Moore",
+        "state": "NC-14",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NC14015"
+    },
+    {
+        "name": "Julie Fedorchak",
+        "state": "ND-00",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4ND00061"
+    },
+    {
+        "name": "Maggie Goodlander",
+        "state": "NH-02",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NH02399"
+    },
+    {
+        "name": "Herbert C. Conaway, Jr.",
+        "state": "NJ-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NJ03080"
+    },
+    {
+        "name": "Nellie Pou",
+        "state": "NJ-09",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NJ09194"
+    },
+    {
+        "name": "Laura Gillen",
+        "state": "NY-04",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY04158"
+    },
+    {
+        "name": "George Latimer",
+        "state": "NY-16",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY16087"
+    },
+    {
+        "name": "Josh Riley",
+        "state": "NY-19",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8NY22177"
+    },
+    {
+        "name": "John W. Mannion",
+        "state": "NY-22",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4NY22085"
+    },
+    {
+        "name": "David J. Taylor",
+        "state": "OH-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4OH02248"
+    },
+    {
+        "name": "Maxine Dexter",
+        "state": "OR-03",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4OR03192"
+    },
+    {
+        "name": "Janelle S. Bynum",
+        "state": "OR-05",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4OR05304"
+    },
+    {
+        "name": "Ryan Mackenzie",
+        "state": "PA-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H8PA15195"
+    },
+    {
+        "name": "Robert P. Bresnahan, Jr.",
+        "state": "PA-08",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4PA08124"
+    },
+    {
+        "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
+        "state": "PR-00",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4PR01010"
+    },
+    {
+        "name": "Sheri Biggs",
+        "state": "SC-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4SC01313"
+    },
+    {
+        "name": "Craig A. Goldman",
+        "state": "TX-12",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX12065"
+    },
+    {
+        "name": "Brandon Gill",
+        "state": "TX-26",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX26149"
+    },
+    {
+        "name": "Julie Johnson",
+        "state": "TX-32",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4TX32089"
+    },
+    {
+        "name": "Mike Kennedy",
+        "state": "UT-03",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4UT03260"
+    },
+    {
+        "name": "John J. McGuire III",
+        "state": "VA-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H2VA07196"
+    },
+    {
+        "name": "Eugene Simon Vindman",
+        "state": "VA-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4VA07234"
+    },
+    {
+        "name": "Suhas Subramanyam",
+        "state": "VA-10",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4VA10279"
+    },
+    {
+        "name": "Michael Baumgartner",
+        "state": "WA-05",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WA05234"
+    },
+    {
+        "name": "Emily Randall",
+        "state": "WA-06",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WA06117"
+    },
+    {
+        "name": "Riley M. Moore",
+        "state": "WV-02",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H4WV02205"
+    },
+    {
+        "name": "Jimmy Patronis",
+        "state": "FL-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL01390"
+    },
+    {
+        "name": "Randy Fine",
+        "state": "FL-06",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6FL06258"
+    },
+    {
+        "name": "James R. Walkinshaw",
+        "state": "VA-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6VA11066"
+    },
+    {
+        "name": "Adelita S. Grijalva",
+        "state": "AZ-07",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6AZ07121"
+    },
+    {
+        "name": "Matt Van Epps",
+        "state": "TN-07",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TN07161"
+    },
+    {
+        "name": "Christian D. Menefee",
+        "state": "TX-18",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6TX18232"
+    },
+    {
+        "name": "Clay Fuller",
+        "state": "GA-14",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H0GA14030"
+    },
+    {
+        "name": "Analilia Mejia",
+        "state": "NJ-11",
+        "party": "dem",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6NJ11286"
+    },
+    {
+        "name": "James Gallagher",
+        "state": "CA-01",
+        "party": "gop",
+        "title": "Representative",
+        "status": "2026 Election Cycle",
+        "fec_id": "H6CA01285"
+    }
+]

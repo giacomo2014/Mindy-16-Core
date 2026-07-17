@@ -1,0 +1,102 @@
+[
+  {
+    "state": "FL",
+    "id": "scott_fl",
+    "name": "Sen. Rick Scott",
+    "party": "gop",
+    "title": "Senior Senator (FL)",
+    "verdict": "BIG BANK & BIG PHARMA",
+    "topDonors": "Conmed Corp, Home Depot, Private Equity Bundlers",
+    "notes": "Self-funding billionaire backed deeply by private equity structures and medical monopoly assets."
+  },
+  {
+    "state": "FL",
+    "id": "moody_fl",
+    "name": "Sen. Ashley Moody",
+    "party": "gop",
+    "title": "Junior Senator (FL)",
+    "verdict": "CORPORATE PACS & REAL ESTATE",
+    "topDonors": "State-Level Corporate Bundlers, Law Enforcement PACs, Real Estate Developers",
+    "notes": "UNELECTED APPOINTEE (Jan 2025) chosen by Gov. DeSantis to replace Marco Rubio. Seat is up for a special election in Nov 2026."
+  },
+  {
+    "state": "AL",
+    "id": "rogers_al",
+    "name": "Rep. Mike Rogers",
+    "party": "gop",
+    "title": "Representative (AL-03) / Chair, Armed Services",
+    "verdict": "THE DEFENSE MONOPOLY",
+    "topDonors": "Lockheed Martin, Boeing, General Dynamics, Raytheon",
+    "notes": "Architect of the defense budget. Routinely pushes to increase military budgets by tens of billions."
+  },
+  {
+    "state": "LA",
+    "id": "scalise_la",
+    "name": "Rep. Steve Scalise",
+    "party": "gop",
+    "title": "House Majority Leader (LA-01)",
+    "verdict": "BIG OIL & THE FOSSIL FUEL MONOPOLY",
+    "topDonors": "Chevron, ExxonMobil, Koch Industries",
+    "notes": "One of the highest career recipients of fossil fuel money in congressional history."
+  }
+,  {
+  "state": "MI",
+  "id": "walberg_mi",
+  "name": "Rep. Tim Walberg",
+  "party": "gop",
+  "title": "Representative (MI-05) / Chair, Education",
+  "verdict": "PRIVATE EQUITY & VOUCHER LOBBY",
+  "topDonors": "Apollo Global Management, DeVos Family, Club for Growth",
+  "notes": "Architect of federal school privatization. Heavily backed by billionaire networks intent on diverting public tax dollars into unregulated private and charter schools."
+},
+{
+  "state": "VA",
+  "id": "scott_va2",
+  "name": "Rep. Bobby Scott",
+  "party": "dem",
+  "title": "Representative (VA-03) / Ranking, Education",
+  "verdict": "LABOR PACS & PUBLIC UNIONS",
+  "topDonors": "Teachers Unions, Labor Organizations, Education Professionals",
+  "notes": "Primary firewall against public school privatization. Backing is almost exclusively derived from organized labor defending traditional public education infrastructure."
+},
+{
+  "state": "NY",
+  "id": "schumer_ny",
+  "name": "Chuck Schumer",
+  "party": "dem",
+  "title": "Senate Minority Leader",
+  "verdict": "Wall Street Defender (Finance & Tech)",
+  "topDonors": "Alphabet Inc, Citigroup, Blackstone Group",
+  "notes": "Current Senate Minority Leader. Anchored to New York voters. Decades of protecting private equity loopholes and shielding the financial sector from structural reform."
+},
+{
+  "state": "NY",
+  "id": "jeffries_ny",
+  "name": "Hakeem Jeffries",
+  "party": "dem",
+  "title": "House Minority Leader",
+  "verdict": "Corporate Centrist (Real Estate & Pharma)",
+  "topDonors": "Pro-Israel America PAC, American Israel Public Affairs Committee, Apollo Global Management",
+  "notes": "Current House Minority Leader. Anchored to New York voters. Consistently aligns with corporate PACs to suppress progressive economic challenges to the current power structure."
+},
+{
+  "state": "SD",
+  "id": "thune_sd",
+  "name": "John Thune",
+  "party": "gop",
+  "title": "Senate Majority Leader",
+  "verdict": "Monopoly Enabler (Telecom & Agriculture)",
+  "topDonors": "Blue Cross/Blue Shield, Nextera Energy, Comcast",
+  "notes": "Current Senate Majority Leader. Anchored to South Dakota voters. Consistent voting record enabling corporate monopolies in telecommunications and blocking universal healthcare expansion."
+},
+{
+  "state": "LA",
+  "id": "johnson_la",
+  "name": "Mike Johnson",
+  "party": "gop",
+  "title": "Speaker of the House",
+  "verdict": "Corporate Deregulator (Energy & Finance)",
+  "topDonors": "Club for Growth, Koch PAC, Oil & Gas Industry",
+  "notes": "Current Speaker of the House. Anchored to Louisiana voters. Uses leadership position to advance aggressive corporate tax cuts and shield fossil fuel and private equity from oversight."
+}
+]
